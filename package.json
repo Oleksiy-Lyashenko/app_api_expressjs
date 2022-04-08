@@ -1,0 +1,29 @@
+{
+  "name": "api_with_expressjs",
+  "version": "1.0.0",
+  "description": "app api with ExpressJs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oleksiy-Lyashenko/app_api_expressjs.git"
+  },
+  "keywords": [
+    "api",
+    "expressjs",
+    "node"
+  ],
+  "author": "Oleksii Lyashenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oleksiy-Lyashenko/app_api_expressjs/issues"
+  },
+  "homepage": "https://github.com/Oleksiy-Lyashenko/app_api_expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
